@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "test_fraction": 0.2,
+  "validation_fraction": 0.2,
+  "regularization_c": 1.0,
+  "max_iterations": 1000,
+  "maximum_rows": 500000,
+  "maximum_dataset_bytes": 268435456
+}

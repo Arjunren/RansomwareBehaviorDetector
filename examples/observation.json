@@ -1,0 +1,13 @@
+{
+  "window_seconds": 300,
+  "file_modify_count": 15,
+  "file_rename_count": 2,
+  "file_delete_count": 1,
+  "extension_change_count": 0,
+  "high_entropy_write_count": 1,
+  "mean_entropy_delta": 0.1,
+  "unique_directories_touched": 2,
+  "process_spawn_count": 1,
+  "bytes_written": 100000,
+  "protected_file_touch_count": 0
+}
